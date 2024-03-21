@@ -1,0 +1,226 @@
+\documentclass[12pt,letterpaper]{report}
+
+\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) for accented characters as single glyph
+\usepackage[strict,autostyle]{csquotes} % smart and nestable quote marks
+\usepackage[USenglish]{babel} % regionalize hyphens, quote marks, etc automatically
+\usepackage{microtype}% improve text appearance with kerning, etc
+\usepackage{datetime} % enable formatting of date output
+\usepackage{tabto}    % make nice tabbing
+\usepackage{hyperref} % enable hyperlinks and pdf metadata
+\usepackage{geometry} % manually set page margins
+\usepackage{enumitem} % enumerate with [resume] option
+\usepackage{titlesec} % allow custom section fonts
+\usepackage{setspace} % custom line spacing
+\usepackage{xcolor} 
+\usepackage[maxcitenames=10, maxbibnames=10]{biblatex}
+\addbibresource[]{biblio.bib}
+
+\AtEveryCite{\DeclareNameAlias{author}{given-family}}
+  
+  
+% bold the name of specific author
+\usepackage{xstring}
+\usepackage{etoolbox}
+\newboolean{bold}
+\newcommand{\makeauthorsbold}[1]{%
+  \DeclareNameFormat{author}{%
+  \setboolean{bold}{false}%
+    \renewcommand{\do}[1]{\expandafter\ifstrequal\expandafter{\namepartfamily}{####1}{\setboolean{bold}{true}}{}}%
+    \docsvlist{#1}%
+    \ifthenelse{\value{listcount}=1}
+    {%
+      {\expandafter\ifthenelse{\boolean{bold}}{\mkbibbold{\namepartfamily\addcomma\addspace \namepartgiveni}}{\namepartfamily\addcomma\addspace \namepartgiveni}}%
+    }{\ifnumless{\value{listcount}}{\value{liststop}}
+      {\expandafter\ifthenelse{\boolean{bold}}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}%
+      {\expandafter\ifthenelse{\boolean{bold}}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}%
+      }
+    \ifthenelse{\value{listcount}<\value{liststop}}
+    {\addcomma\space}{}
+  }
+}
+
+
+
+
+\makeauthorsbold{Wen, Zhiyuan}
+
+% what is your name?
+\newcommand{\myname}{Zhiyuan Wen}
+
+% select default typefaces
+\usepackage{ebgaramond} % document's serif typeface
+\usepackage{tgheros}    % document's sans serif typeface
+
+% how far to tab for list items with left-aligned date: different fonts need different widths
+\newcommand{\listtabwidth}{4cm}
+
+% define font to use as document's title
+\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
+
+% set section heading fonts and before/after spacing
+\SetTracking{encoding=*, family=\sfdefault}{30} % increase sans serif headings tracking
+\titleformat{\section}{\lsstyle\sffamily\small\bfseries\uppercase}{}{}{}{}
+\titlespacing{\section}{0pt}{30pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
+
+% set subsection heading fonts and before/after spacing
+\titleformat{\subsection}{\lsstyle\sffamily\footnotesize\bfseries}{}{}{}{}
+\titlespacing{\subsection}{0pt}{16pt plus 4pt minus 4pt}{4pt plus 2pt minus 2pt}
+
+% set page margins (assumes letter paper)
+\geometry{body={7.2in, 9.0in},
+    left=0.8in,
+    top=1.0in}
+
+% prevent paragraph indentation
+\setlength\parindent{0em}
+
+% set line spacing
+\setstretch{1.2}
+
+% define space between list items
+\newcommand{\listitemspace}{0.5em}
+
+% make unordered lists without bullets and use compact spacing
+\renewenvironment{itemize}
+{\begin{list}{}{\setlength{\leftmargin}{0em}
+                \setlength{\parskip}{0em}
+                \setlength{\itemsep}{\listitemspace}
+                \setlength{\parsep}{\listitemspace}}}
+{\end{list}}
+
+% make tabbed lists so content is left-aligned next to years
+\TabPositions{\listtabwidth}
+\newlist{tablist}{description}{3}
+\setlist[tablist]{leftmargin=\listtabwidth,
+    labelindent=0em,
+    topsep=0em,
+    partopsep=0em,
+    itemsep=\listitemspace,
+    parsep=\listitemspace,
+    font=\normalfont}
+
+% print only the month and year when using \today
+\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+
+% define hyperlink appearance and metadata for pdf properties
+\hypersetup{
+    colorlinks  = true,
+    urlcolor    = black,
+    citecolor   = black,
+    linkcolor   = blue,
+    pdfauthor   = {\myname},
+    pdfkeywords = {Deep Learning, Machine Learning, Smart Meter ,Social Computation},
+    pdftitle    = {\myname: Curriculum Vitae},
+    pdfsubject  = {Curriculum Vitae},
+    pdfpagemode = UseNone
+}
+
+\begin{document}
+    % \nobibliography*
+    \raggedright{}
+
+    % display your name as the document title
+    \namefont{\myname}
+
+    % affiliation and contact info blocks
+    \vspace{1em}
+    \begin{minipage}[t]{0.670\textwidth}
+        % current primary affiliation, left-aligned
+        Postdoctoral Fellow, working with \href{https://www4.comp.polyu.edu.hk/~csjcao/}{\textcolor{blue}{Prof. Jiannong Cao}}\\
+        Department of Computing\\
+        The Hong Kong Polytechnic University (PolyU)
+    \end{minipage}
+    \begin{minipage}[t]{0.325\textwidth}
+        % contact info details, right-aligned
+        \flushright{}
+        Phone: +852 5960 2238\\
+        Email: \href{mailto:zyuanwen@polyu.edu.hk}{\textcolor{blue}{zyuanwen@polyu.edu.hk}} \\
+        Homepage: \href{https://preke.github.io}{\textcolor{blue}{preke.github.io}}\\
+    \end{minipage}
+
+    \section*{Educational Background}
+    
+    \begin{tablist}
+      \item[2018.9-2023.12] \tab{}Ph.D. in Computer Science, The Hong Kong Polytechnic University, Hong Kong, China\\
+      		Thesis: Comprehending and Reflecting Personality in Dialog Systems \\
+      		Supervisor: \href{https://www4.comp.polyu.edu.hk/~csjcao/}{\textcolor{blue}{Prof. Jiannong Cao}}, IEEE Fellow \\
+      \item[2021.9-2022.3] \tab{}Visiting Student at \href{https://nlp.csai.tsinghua.edu.cn/}{\textcolor{blue}{THUNLP}} Lab, Tsinghua University, Beijing, China\\
+	      Supervisor: \href{https://nlp.csai.tsinghua.edu.cn/staff/sms/}{\textcolor{blue}{Prof. Maosong Sun}}, ACL Fellow \\
+      \item[2013.9-2017.6] \tab{}B.E. on Information Security, Sun Yat-sen University (SYSU), Guangzhou, China 
+    \end{tablist}
+    
+    \section*{Research Interests}
+    \begin{itemize}
+      \item Conversational AI, Personality and Emotion in Dialog Systems, Summarization, Large Language Models
+    \end{itemize}
+    
+    \section*{Publications}
+    \subsection*{Journal Articles}
+    \begin{tablist}
+    	\item[TOIS] \tab{}\fullcite{wen2024person}
+    	\item[TKDE] \tab{}\fullcite{liu2023neural}
+        \item[IP\&M] \tab{}\fullcite{wen2023desprompt}
+        \item[IP\&M] \tab{}\fullcite{liu2022key}
+        \item[WWWJ] \tab{}\fullcite{yang2022automated}
+        \item[TSE] \tab{}\fullcite{gao2021emerging}
+        \item[TNNLS] \tab{}\fullcite{ye2019homophily}
+	\end{tablist}
+    \subsection*{Conference Proceedings}
+    \begin{tablist}
+    	\item[PerCom' 24] \tab{}\fullcite{wen2024affective}
+    	\item[EMNLP' 22(Findings)] \tab{}\fullcite{liu2022long}
+        \item[IJCAI' 22] \tab{}\fullcite{liu2023generating}
+        \item[ACL' 21(Findings)] \tab{}\fullcite{wen2021automatically}
+        \item[ACL' 21(Findings)] \tab{}\fullcite{liu2021highlight}
+        \item[DASFAA' 20(Findings)] \tab{}\fullcite{yang2020epars}
+        \item[EMNLP' 20(Findings)] \tab{}\fullcite{yang2020enhancing}
+        \item[ICBL' 20] \tab{}\fullcite{yang2020learning}
+        \item[LREC'20] \tab{}\fullcite{wen2020decode}
+        \item[LREC'20] \tab{}\fullcite{yang2020ggp}
+        \item[APSEC' 18] \tab{}\fullcite{xie2018detecting}
+    \end{tablist}
+
+    % \section*{INVITED TALKS}
+    % \subsection*{Campus Talks}
+
+    \section*{Awards and Honors}
+    \begin{tablist}
+        \item[2023] \tab{}Best Presentation Award at PolyU Research Student Conference, PolyU
+        \item[2015] \tab{}Yingcai Scholarship, SYSU
+        \item[2015] \tab{}Second-class Scholarship, SYSU
+        \item[2014] \tab{}Third-class Scholarship, SYSU
+    \end{tablist}
+
+    \section*{Teaching}
+    \begin{tablist}
+        \item[2024 Spring] \tab{}Guest Lecturer, Data Analysis based on Text Inputs 2 (\href{https://preke.github.io/files/COMP5152-Lecture\%209.pdf}{\textcolor{blue}{Slide}}),\\ COMP 5152: Advanced Data Analytics, PolyU
+        \item[2021 Spring] \tab{}Teaching Assistant, COMP4146: Computational Finance, PolyU
+        \item[2020 Spring] \tab{}Teaching Assistant, COMP1011: Programming Fundamentals, PolyU
+        \item[2019 Spring] \tab{}Teaching Assistant, COMP4133: Information Retrieval, PolyU
+        \item[2018,19,20 Fall] \tab{}Teaching Assistant, COMP3011: Design and Analysis of Algorithms, PolyU
+        
+    \end{tablist}
+
+    \section*{Service}
+    \subsection*{Academic Journal and Conference Peer Review}
+    \begin{itemize}
+        \item ACL, EMNLP, NAACL, IJCAI'19, AAAI'19, BigData'19
+        \item ACM Computing Surveys
+        \item Information Processing and Mangement
+    \end{itemize}
+
+    \section*{Internship}
+    \begin{tablist}
+        \item[2016.9-2017.12] \tab{}Research assistant at \href{https://inpluslab.com/}{\textcolor{blue}{InplusLab}}, SYSU, Guangzhou, China \\ Supervisor: \href{https://www.zibinzheng.com/}{\textcolor{blue}{Prof. Zibin Zheng}}, IEEE Fellow
+        \item[2018.1-2018.5] \tab{}R \& D Intern in Reliability Group, 2012 Lab, Huawei, Shenzhen, China \\ Mentor: \href{https://jiemingzhu.github.io/}{\textcolor{blue}{Dr. Jieming Zhu}}
+        \item[2017.4-2017.9] \tab{}Research Student in Weixin Group, Tencent, Guangzhou, China
+    \end{tablist}
+
+    \section*{Skills}
+    \begin{tablist}
+        \item[Programming] \tab{}Python, Scrapy, C/C++, JS, LaTex, Matlab
+        \item[Web] \tab{}Django, Flask, BootStrap, Php
+        \item[Deep Learning] \tab{}PyTorch
+    \end{tablist}
+
+\end{document}
