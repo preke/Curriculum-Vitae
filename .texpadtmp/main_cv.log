@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.15)  22 MAR 2024 01:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.15)  22 MAR 2024 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -881,7 +881,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  42i,5n,64p,1064b,1651s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ontdi6.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_a253pk.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-BoldItalic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb>
-Output written on /Users/wenzhiyuan/Desktop/Curriculum-Vitae/.texpadtmp/main_cv.pdf (4 pages, 421688 bytes).
+Output written on /Users/wenzhiyuan/Desktop/Curriculum-Vitae/.texpadtmp/main_cv.pdf (4 pages, 421637 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream

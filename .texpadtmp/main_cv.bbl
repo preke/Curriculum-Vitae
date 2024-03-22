@@ -31,8 +31,8 @@
            familyi={Z\bibinitperiod},
            given={Jichuan},
            giveni={J\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
         {{hash=cac8ebdbf2f8a8f2b7f49f6e737c2649}{%
            family={Lo},
@@ -58,12 +58,12 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{5b3b707fe102e4ad077371adbedb0aed}
-      \strng{fullhash}{5b3b707fe102e4ad077371adbedb0aed}
-      \strng{bibnamehash}{5b3b707fe102e4ad077371adbedb0aed}
-      \strng{authorbibnamehash}{5b3b707fe102e4ad077371adbedb0aed}
-      \strng{authornamehash}{5b3b707fe102e4ad077371adbedb0aed}
-      \strng{authorfullhash}{5b3b707fe102e4ad077371adbedb0aed}
+      \strng{namehash}{d4b8d8d2967c27c8e2588082f44604ce}
+      \strng{fullhash}{d4b8d8d2967c27c8e2588082f44604ce}
+      \strng{bibnamehash}{d4b8d8d2967c27c8e2588082f44604ce}
+      \strng{authorbibnamehash}{d4b8d8d2967c27c8e2588082f44604ce}
+      \strng{authornamehash}{d4b8d8d2967c27c8e2588082f44604ce}
+      \strng{authorfullhash}{d4b8d8d2967c27c8e2588082f44604ce}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
       \field{labelnamesource}{author}
@@ -103,8 +103,8 @@
            familyi={Y\bibinitperiod},
            given={Ruosong},
            giveni={R\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
         {{hash=14006fbc78b6b37f56873a72d42259e8}{%
            family={Philip},
@@ -115,12 +115,12 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{3712b389e6ea07c66e9117b7c749c422}
-      \strng{fullhash}{3712b389e6ea07c66e9117b7c749c422}
-      \strng{bibnamehash}{3712b389e6ea07c66e9117b7c749c422}
-      \strng{authorbibnamehash}{3712b389e6ea07c66e9117b7c749c422}
-      \strng{authornamehash}{3712b389e6ea07c66e9117b7c749c422}
-      \strng{authorfullhash}{3712b389e6ea07c66e9117b7c749c422}
+      \strng{namehash}{4c18f19fa7a932a123c685c961cdf7c7}
+      \strng{fullhash}{4c18f19fa7a932a123c685c961cdf7c7}
+      \strng{bibnamehash}{4c18f19fa7a932a123c685c961cdf7c7}
+      \strng{authorbibnamehash}{4c18f19fa7a932a123c685c961cdf7c7}
+      \strng{authornamehash}{4c18f19fa7a932a123c685c961cdf7c7}
+      \strng{authorfullhash}{4c18f19fa7a932a123c685c961cdf7c7}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
       \field{labelnamesource}{author}
@@ -146,16 +146,16 @@
            familyi={Y\bibinitperiod},
            given={Ruosong},
            giveni={R\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{fullhash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{bibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorbibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authornamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorfullhash}{b46e34cfa438424ccbda2e63d2305962}
+      \strng{namehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{fullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{bibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorbibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authornamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorfullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
       \field{extraname}{1}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
@@ -184,16 +184,16 @@
            familyi={Y\bibinitperiod},
            given={Ruosong},
            giveni={R\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{fullhash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{bibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorbibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authornamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorfullhash}{b46e34cfa438424ccbda2e63d2305962}
+      \strng{namehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{fullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{bibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorbibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authornamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorfullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
       \field{extraname}{2}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
@@ -222,19 +222,19 @@
            familyi={Y\bibinitperiod},
            given={Ruosong},
            giveni={R\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{fullhash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{bibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorbibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authornamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorfullhash}{b46e34cfa438424ccbda2e63d2305962}
+      \strng{namehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{fullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{bibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorbibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authornamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorfullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
       \field{extraname}{3}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
@@ -265,16 +265,16 @@
            familyi={Y\bibinitperiod},
            given={Ruosong},
            giveni={R\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{fullhash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{bibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorbibnamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authornamehash}{b46e34cfa438424ccbda2e63d2305962}
-      \strng{authorfullhash}{b46e34cfa438424ccbda2e63d2305962}
+      \strng{namehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{fullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{bibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorbibnamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authornamehash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
+      \strng{authorfullhash}{e5fadaf54fbcaee2b98c4ff53df3d0bc}
       \field{extraname}{4}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
@@ -286,228 +286,6 @@
       \field{pages}{1995\bibrangedash 2010}
       \range{pages}{16}
     \endentry
-    \entry{wen2024person}{article}{}
-      \name{author}{6}{}{%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
-           familyi={W\bibinitperiod}}}%
-        {{hash=cd59d436917c02c252d25762a26d0955}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jiannong},
-           giveni={J\bibinitperiod}}}%
-        {{hash=48699d029d787801ac88d4ac572b5fa2}{%
-           family={Shen},
-           familyi={S\bibinitperiod},
-           given={Jiaxing},
-           giveni={J\bibinitperiod}}}%
-        {{hash=1e7751f00b52d823faafcb14849b7494}{%
-           family={Ruosong},
-           familyi={R\bibinitperiod},
-           given={Yang},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Shuaiqi},
-           giveni={S\bibinitperiod}}}%
-        {{hash=f044288c40cfe39b24d13211c2965e69}{%
-           family={Maosong},
-           familyi={M\bibinitperiod},
-           given={Sun},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {ACM}%
-      }
-      \strng{namehash}{99581c5a0b201b4a46f6634f258b51a3}
-      \strng{fullhash}{99581c5a0b201b4a46f6634f258b51a3}
-      \strng{bibnamehash}{99581c5a0b201b4a46f6634f258b51a3}
-      \strng{authorbibnamehash}{99581c5a0b201b4a46f6634f258b51a3}
-      \strng{authornamehash}{99581c5a0b201b4a46f6634f258b51a3}
-      \strng{authorfullhash}{99581c5a0b201b4a46f6634f258b51a3}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM Transactions on Information Systems \textbf{Just Accepted}}
-      \field{title}{Personality-affected Emotion Generation in Dialog Systems}
-      \field{year}{2024}
-    \endentry
-    \entry{wen2021automatically}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
-           familyi={W\bibinitperiod}}}%
-        {{hash=cd59d436917c02c252d25762a26d0955}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jiannong},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Ruosong},
-           giveni={R\bibinitperiod}}}%
-        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Shuaiqi},
-           giveni={S\bibinitperiod}}}%
-        {{hash=48699d029d787801ac88d4ac572b5fa2}{%
-           family={Shen},
-           familyi={S\bibinitperiod},
-           given={Jiaxing},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{23b7ee8e711b1bd8276931b0a08febc6}
-      \strng{fullhash}{23b7ee8e711b1bd8276931b0a08febc6}
-      \strng{bibnamehash}{23b7ee8e711b1bd8276931b0a08febc6}
-      \strng{authorbibnamehash}{23b7ee8e711b1bd8276931b0a08febc6}
-      \strng{authornamehash}{23b7ee8e711b1bd8276931b0a08febc6}
-      \strng{authorfullhash}{23b7ee8e711b1bd8276931b0a08febc6}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021}
-      \field{title}{Automatically select emotion for response via personality-affected emotion transition}
-      \field{year}{2021}
-      \field{pages}{5010\bibrangedash 5020}
-      \range{pages}{11}
-    \endentry
-    \entry{wen2020decode}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
-           familyi={W\bibinitperiod}}}%
-        {{hash=cd59d436917c02c252d25762a26d0955}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jiannong},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Ruosong},
-           giveni={R\bibinitperiod}}}%
-        {{hash=14ef069f26ff09873656720065fa05d9}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Senzhang},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{1afb292b2e8af9cedfbdaea3cbd1a950}
-      \strng{fullhash}{1afb292b2e8af9cedfbdaea3cbd1a950}
-      \strng{bibnamehash}{1afb292b2e8af9cedfbdaea3cbd1a950}
-      \strng{authorbibnamehash}{1afb292b2e8af9cedfbdaea3cbd1a950}
-      \strng{authornamehash}{1afb292b2e8af9cedfbdaea3cbd1a950}
-      \strng{authorfullhash}{1afb292b2e8af9cedfbdaea3cbd1a950}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the Twelfth Language Resources and Evaluation Conference}
-      \field{title}{Decode with template: Content preserving sentiment transfer}
-      \field{year}{2020}
-      \field{pages}{4671\bibrangedash 4679}
-      \range{pages}{9}
-    \endentry
-    \entry{wen2023desprompt}{article}{}
-      \name{author}{6}{}{%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
-           familyi={W\bibinitperiod}}}%
-        {{hash=cd59d436917c02c252d25762a26d0955}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jiannong},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d5372515c44ce22c5dbf22f363a2baf0}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Yu},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=2b5718653f5f493273e2a046c0f4c68d}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Haoli},
-           giveni={H\bibinitperiod}}}%
-        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Ruosong},
-           giveni={R\bibinitperiod}}}%
-        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Shuaiqi},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{e647a3bb471ea9a9176219082ee0e650}
-      \strng{fullhash}{e647a3bb471ea9a9176219082ee0e650}
-      \strng{bibnamehash}{e647a3bb471ea9a9176219082ee0e650}
-      \strng{authorbibnamehash}{e647a3bb471ea9a9176219082ee0e650}
-      \strng{authornamehash}{e647a3bb471ea9a9176219082ee0e650}
-      \strng{authorfullhash}{e647a3bb471ea9a9176219082ee0e650}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Information Processing \& Management}
-      \field{number}{5}
-      \field{title}{DesPrompt: Personality-descriptive prompt tuning for few-shot personality recognition}
-      \field{volume}{60}
-      \field{year}{2023}
-      \field{pages}{103422}
-      \range{pages}{1}
-    \endentry
-    \entry{wen2024affective}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
-           familyi={W\bibinitperiod}}}%
-        {{hash=cd59d436917c02c252d25762a26d0955}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jiannong},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d5372515c44ce22c5dbf22f363a2baf0}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Yu},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Ruosong},
-           giveni={R\bibinitperiod}}}%
-        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Shuaiqi},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{4b87b59bc26758fb473e8d5d32c38d82}
-      \strng{fullhash}{4b87b59bc26758fb473e8d5d32c38d82}
-      \strng{bibnamehash}{4b87b59bc26758fb473e8d5d32c38d82}
-      \strng{authorbibnamehash}{4b87b59bc26758fb473e8d5d32c38d82}
-      \strng{authornamehash}{4b87b59bc26758fb473e8d5d32c38d82}
-      \strng{authorfullhash}{4b87b59bc26758fb473e8d5d32c38d82}
-      \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of IEEE International Conference on Pervasive Computing and Communications \textbf{Just Accepted}}
-      \field{title}{Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation}
-      \field{year}{2024}
-    \endentry
     \entry{xie2018detecting}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=4d7e559889186dffb2c792e8438356c8}{%
@@ -515,8 +293,8 @@
            familyi={X\bibinitperiod},
            given={Qi},
            giveni={Q\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
         {{hash=fa3d04898970f061ddb4645c25b05fca}{%
            family={Zhu},
@@ -537,12 +315,12 @@
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{04c21aae7df549eb4ef90f5df5f92250}
-      \strng{fullhash}{04c21aae7df549eb4ef90f5df5f92250}
-      \strng{bibnamehash}{04c21aae7df549eb4ef90f5df5f92250}
-      \strng{authorbibnamehash}{04c21aae7df549eb4ef90f5df5f92250}
-      \strng{authornamehash}{04c21aae7df549eb4ef90f5df5f92250}
-      \strng{authorfullhash}{04c21aae7df549eb4ef90f5df5f92250}
+      \strng{namehash}{1f613b9f813b4d1c0a47700af91a1d15}
+      \strng{fullhash}{1f613b9f813b4d1c0a47700af91a1d15}
+      \strng{bibnamehash}{1f613b9f813b4d1c0a47700af91a1d15}
+      \strng{authorbibnamehash}{1f613b9f813b4d1c0a47700af91a1d15}
+      \strng{authornamehash}{1f613b9f813b4d1c0a47700af91a1d15}
+      \strng{authorfullhash}{1f613b9f813b4d1c0a47700af91a1d15}
       \field{sortinit}{X}
       \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
       \field{labelnamesource}{author}
@@ -552,55 +330,6 @@
       \field{year}{2018}
       \field{pages}{416\bibrangedash 425}
       \range{pages}{10}
-    \endentry
-    \entry{yang2020epars}{inproceedings}{}
-      \name{author}{6}{}{%
-        {{hash=a5078443a83a487cf158f1be24db9c82}{%
-           family={{Yang,\bibnamedelimb Yu}*},
-           familyi={Y\bibinitperiod}}}%
-        {{hash=f88f413fe7b6e9d6d14abca2fe67d7a7}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}*},
-           familyi={W\bibinitperiod}}}%
-        {{hash=cd59d436917c02c252d25762a26d0955}{%
-           family={Cao},
-           familyi={C\bibinitperiod},
-           given={Jiannong},
-           giveni={J\bibinitperiod}}}%
-        {{hash=48699d029d787801ac88d4ac572b5fa2}{%
-           family={Shen},
-           familyi={S\bibinitperiod},
-           given={Jiaxing},
-           giveni={J\bibinitperiod}}}%
-        {{hash=684a7485a58d733155967691eae9a57f}{%
-           family={Yin},
-           familyi={Y\bibinitperiod},
-           given={Hongzhi},
-           giveni={H\bibinitperiod}}}%
-        {{hash=1be3b9bc3df92cb45255893cafffcc48}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={Xiaofang},
-           giveni={X\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{95b1e856b0cf5474d6101f2dbc44e0de}
-      \strng{fullhash}{95b1e856b0cf5474d6101f2dbc44e0de}
-      \strng{bibnamehash}{95b1e856b0cf5474d6101f2dbc44e0de}
-      \strng{authorbibnamehash}{95b1e856b0cf5474d6101f2dbc44e0de}
-      \strng{authornamehash}{95b1e856b0cf5474d6101f2dbc44e0de}
-      \strng{authorfullhash}{95b1e856b0cf5474d6101f2dbc44e0de}
-      \field{sortinit}{Y}
-      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Database Systems for Advanced Applications: 25th International Conference, DASFAA 2020, Jeju, South Korea, September 24--27, 2020, Proceedings, Part II 25}
-      \field{note}{\textbf{* indicates equal contribution}}
-      \field{title}{EPARS: Early prediction of at-risk students with online and offline learning behaviors}
-      \field{year}{2020}
-      \field{pages}{3\bibrangedash 19}
-      \range{pages}{17}
     \endentry
     \entry{yang2020ggp}{inproceedings}{}
       \name{author}{3}{}{%
@@ -614,16 +343,16 @@
            familyi={C\bibinitperiod},
            given={Jiannong},
            giveni={J\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{52f95d68f694da7271a5ad13fc2e429c}
-      \strng{fullhash}{52f95d68f694da7271a5ad13fc2e429c}
-      \strng{bibnamehash}{52f95d68f694da7271a5ad13fc2e429c}
-      \strng{authorbibnamehash}{52f95d68f694da7271a5ad13fc2e429c}
-      \strng{authornamehash}{52f95d68f694da7271a5ad13fc2e429c}
-      \strng{authorfullhash}{52f95d68f694da7271a5ad13fc2e429c}
+      \strng{namehash}{62f3f5f94f4040ebdaa3c4e0ac1b430c}
+      \strng{fullhash}{62f3f5f94f4040ebdaa3c4e0ac1b430c}
+      \strng{bibnamehash}{62f3f5f94f4040ebdaa3c4e0ac1b430c}
+      \strng{authorbibnamehash}{62f3f5f94f4040ebdaa3c4e0ac1b430c}
+      \strng{authornamehash}{62f3f5f94f4040ebdaa3c4e0ac1b430c}
+      \strng{authorfullhash}{62f3f5f94f4040ebdaa3c4e0ac1b430c}
       \field{sortinit}{Y}
       \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
       \field{labelnamesource}{author}
@@ -646,8 +375,8 @@
            familyi={C\bibinitperiod},
            given={Jiannong},
            giveni={J\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
         {{hash=48699d029d787801ac88d4ac572b5fa2}{%
            family={Shen},
@@ -658,12 +387,12 @@
       \list{publisher}{1}{%
         {Springer}%
       }
-      \strng{namehash}{cf9012eb18c1ff0fbb8ed3c67b5c72d5}
-      \strng{fullhash}{cf9012eb18c1ff0fbb8ed3c67b5c72d5}
-      \strng{bibnamehash}{cf9012eb18c1ff0fbb8ed3c67b5c72d5}
-      \strng{authorbibnamehash}{cf9012eb18c1ff0fbb8ed3c67b5c72d5}
-      \strng{authornamehash}{cf9012eb18c1ff0fbb8ed3c67b5c72d5}
-      \strng{authorfullhash}{cf9012eb18c1ff0fbb8ed3c67b5c72d5}
+      \strng{namehash}{1e67e8ecd213324c988d9622c8b57bcf}
+      \strng{fullhash}{1e67e8ecd213324c988d9622c8b57bcf}
+      \strng{bibnamehash}{1e67e8ecd213324c988d9622c8b57bcf}
+      \strng{authorbibnamehash}{1e67e8ecd213324c988d9622c8b57bcf}
+      \strng{authornamehash}{1e67e8ecd213324c988d9622c8b57bcf}
+      \strng{authorfullhash}{1e67e8ecd213324c988d9622c8b57bcf}
       \field{sortinit}{Y}
       \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
       \field{labelnamesource}{author}
@@ -688,8 +417,8 @@
            familyi={C\bibinitperiod},
            given={Jiannong},
            giveni={J\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
         {{hash=b67784600d0217b3da46795cb4a54fb3}{%
            family={Wu},
@@ -702,12 +431,12 @@
            given={Xiaodong},
            giveni={X\bibinitperiod}}}%
       }
-      \strng{namehash}{4f18c8dc63a26c24ea21ec50673de70c}
-      \strng{fullhash}{4f18c8dc63a26c24ea21ec50673de70c}
-      \strng{bibnamehash}{4f18c8dc63a26c24ea21ec50673de70c}
-      \strng{authorbibnamehash}{4f18c8dc63a26c24ea21ec50673de70c}
-      \strng{authornamehash}{4f18c8dc63a26c24ea21ec50673de70c}
-      \strng{authorfullhash}{4f18c8dc63a26c24ea21ec50673de70c}
+      \strng{namehash}{ba3436f7aaf7e60a653dd308f2d8846c}
+      \strng{fullhash}{ba3436f7aaf7e60a653dd308f2d8846c}
+      \strng{bibnamehash}{ba3436f7aaf7e60a653dd308f2d8846c}
+      \strng{authorbibnamehash}{ba3436f7aaf7e60a653dd308f2d8846c}
+      \strng{authornamehash}{ba3436f7aaf7e60a653dd308f2d8846c}
+      \strng{authorfullhash}{ba3436f7aaf7e60a653dd308f2d8846c}
       \field{sortinit}{Y}
       \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
       \field{labelnamesource}{author}
@@ -740,19 +469,19 @@
            familyi={Y\bibinitperiod},
            given={Ruosong},
            giveni={R\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
       }
       \list{organization}{1}{%
         {Springer}%
       }
-      \strng{namehash}{2bb380893a45cc99be91cce128462b9c}
-      \strng{fullhash}{2bb380893a45cc99be91cce128462b9c}
-      \strng{bibnamehash}{2bb380893a45cc99be91cce128462b9c}
-      \strng{authorbibnamehash}{2bb380893a45cc99be91cce128462b9c}
-      \strng{authornamehash}{2bb380893a45cc99be91cce128462b9c}
-      \strng{authorfullhash}{2bb380893a45cc99be91cce128462b9c}
+      \strng{namehash}{607dbd1bc9b7abd528e947b40e1a36e6}
+      \strng{fullhash}{607dbd1bc9b7abd528e947b40e1a36e6}
+      \strng{bibnamehash}{607dbd1bc9b7abd528e947b40e1a36e6}
+      \strng{authorbibnamehash}{607dbd1bc9b7abd528e947b40e1a36e6}
+      \strng{authornamehash}{607dbd1bc9b7abd528e947b40e1a36e6}
+      \strng{authorfullhash}{607dbd1bc9b7abd528e947b40e1a36e6}
       \field{sortinit}{Y}
       \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
       \field{labelnamesource}{author}
@@ -775,8 +504,8 @@
            familyi={C\bibinitperiod},
            given={Chuan},
            giveni={C\bibinitperiod}}}%
-        {{hash=561de34983715cacdf7904848d42fe04}{%
-           family={\textbf{Wen,\bibnamedelimb Zhiyuan}},
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
            familyi={W\bibinitperiod}}}%
         {{hash=94aeb96f7bbdfa5f304dc958ab7f265c}{%
            family={Zheng},
@@ -797,12 +526,12 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{247ec379c79bff694ab39744408efabc}
-      \strng{fullhash}{247ec379c79bff694ab39744408efabc}
-      \strng{bibnamehash}{247ec379c79bff694ab39744408efabc}
-      \strng{authorbibnamehash}{247ec379c79bff694ab39744408efabc}
-      \strng{authornamehash}{247ec379c79bff694ab39744408efabc}
-      \strng{authorfullhash}{247ec379c79bff694ab39744408efabc}
+      \strng{namehash}{a2f5f17b7c8329983545150806eebba4}
+      \strng{fullhash}{a2f5f17b7c8329983545150806eebba4}
+      \strng{bibnamehash}{a2f5f17b7c8329983545150806eebba4}
+      \strng{authorbibnamehash}{a2f5f17b7c8329983545150806eebba4}
+      \strng{authornamehash}{a2f5f17b7c8329983545150806eebba4}
+      \strng{authorfullhash}{a2f5f17b7c8329983545150806eebba4}
       \field{sortinit}{Y}
       \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
       \field{labelnamesource}{author}
@@ -814,6 +543,277 @@
       \field{year}{2019}
       \field{pages}{2903\bibrangedash 2915}
       \range{pages}{13}
+    \endentry
+    \entry{yang2020epars}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=cdadb008e69eb9612b05a4fc09d405b0}{%
+           family={{Yu,\bibnamedelimb Yang}*},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=8d8e0af3cc077aa9decae41ec554cc1c}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}*},
+           familyi={W\bibinitperiod}}}%
+        {{hash=cd59d436917c02c252d25762a26d0955}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48699d029d787801ac88d4ac572b5fa2}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Jiaxing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=684a7485a58d733155967691eae9a57f}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Hongzhi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1be3b9bc3df92cb45255893cafffcc48}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xiaofang},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d0a6731e5a1696983697ec8b321e1d92}
+      \strng{fullhash}{d0a6731e5a1696983697ec8b321e1d92}
+      \strng{bibnamehash}{d0a6731e5a1696983697ec8b321e1d92}
+      \strng{authorbibnamehash}{d0a6731e5a1696983697ec8b321e1d92}
+      \strng{authornamehash}{d0a6731e5a1696983697ec8b321e1d92}
+      \strng{authorfullhash}{d0a6731e5a1696983697ec8b321e1d92}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Database Systems for Advanced Applications: 25th International Conference, DASFAA 2020, Jeju, South Korea, September 24--27, 2020, Proceedings, Part II 25}
+      \field{note}{\textbf{* indicates equal contribution}}
+      \field{title}{EPARS: Early prediction of at-risk students with online and offline learning behaviors}
+      \field{year}{2020}
+      \field{pages}{3\bibrangedash 19}
+      \range{pages}{17}
+    \endentry
+    \entry{wen2024person}{article}{}
+      \name{author}{6}{}{%
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=cd59d436917c02c252d25762a26d0955}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48699d029d787801ac88d4ac572b5fa2}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Jiaxing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ruosong},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shuaiqi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=faa6f5041a22004ca0dd547c03476790}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Maosong},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{c860c676efafa73d6537c62e37985499}
+      \strng{fullhash}{c860c676efafa73d6537c62e37985499}
+      \strng{bibnamehash}{c860c676efafa73d6537c62e37985499}
+      \strng{authorbibnamehash}{c860c676efafa73d6537c62e37985499}
+      \strng{authornamehash}{c860c676efafa73d6537c62e37985499}
+      \strng{authorfullhash}{c860c676efafa73d6537c62e37985499}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Information Systems \textbf{Just Accepted}}
+      \field{title}{Personality-affected Emotion Generation in Dialog Systems}
+      \field{year}{2024}
+    \endentry
+    \entry{wen2021automatically}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=cd59d436917c02c252d25762a26d0955}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ruosong},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shuaiqi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=48699d029d787801ac88d4ac572b5fa2}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Jiaxing},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{61cc58df3f2e0b0caf89baa9519946fa}
+      \strng{fullhash}{61cc58df3f2e0b0caf89baa9519946fa}
+      \strng{bibnamehash}{61cc58df3f2e0b0caf89baa9519946fa}
+      \strng{authorbibnamehash}{61cc58df3f2e0b0caf89baa9519946fa}
+      \strng{authornamehash}{61cc58df3f2e0b0caf89baa9519946fa}
+      \strng{authorfullhash}{61cc58df3f2e0b0caf89baa9519946fa}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021}
+      \field{title}{Automatically select emotion for response via personality-affected emotion transition}
+      \field{year}{2021}
+      \field{pages}{5010\bibrangedash 5020}
+      \range{pages}{11}
+    \endentry
+    \entry{wen2020decode}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=cd59d436917c02c252d25762a26d0955}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ruosong},
+           giveni={R\bibinitperiod}}}%
+        {{hash=14ef069f26ff09873656720065fa05d9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Senzhang},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{879563e5f581cbc0fdbc1a24db0e6213}
+      \strng{fullhash}{879563e5f581cbc0fdbc1a24db0e6213}
+      \strng{bibnamehash}{879563e5f581cbc0fdbc1a24db0e6213}
+      \strng{authorbibnamehash}{879563e5f581cbc0fdbc1a24db0e6213}
+      \strng{authornamehash}{879563e5f581cbc0fdbc1a24db0e6213}
+      \strng{authorfullhash}{879563e5f581cbc0fdbc1a24db0e6213}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Twelfth Language Resources and Evaluation Conference}
+      \field{title}{Decode with template: Content preserving sentiment transfer}
+      \field{year}{2020}
+      \field{pages}{4671\bibrangedash 4679}
+      \range{pages}{9}
+    \endentry
+    \entry{wen2023desprompt}{article}{}
+      \name{author}{6}{}{%
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=cd59d436917c02c252d25762a26d0955}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d5372515c44ce22c5dbf22f363a2baf0}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2b5718653f5f493273e2a046c0f4c68d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoli},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ruosong},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shuaiqi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{66e2eeb946b01ff626c038df5c54fc38}
+      \strng{fullhash}{66e2eeb946b01ff626c038df5c54fc38}
+      \strng{bibnamehash}{66e2eeb946b01ff626c038df5c54fc38}
+      \strng{authorbibnamehash}{66e2eeb946b01ff626c038df5c54fc38}
+      \strng{authornamehash}{66e2eeb946b01ff626c038df5c54fc38}
+      \strng{authorfullhash}{66e2eeb946b01ff626c038df5c54fc38}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Processing \& Management}
+      \field{number}{5}
+      \field{title}{DesPrompt: Personality-descriptive prompt tuning for few-shot personality recognition}
+      \field{volume}{60}
+      \field{year}{2023}
+      \field{pages}{103422}
+      \range{pages}{1}
+    \endentry
+    \entry{wen2024affective}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=63dca535380f96d8c52de7856a9e3137}{%
+           family={\textbf{Zhiyuan\bibnamedelimb Wen}},
+           familyi={W\bibinitperiod}}}%
+        {{hash=cd59d436917c02c252d25762a26d0955}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jiannong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d5372515c44ce22c5dbf22f363a2baf0}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3fe4e9362fc6007dbfe58d059ded0f16}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Ruosong},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8bfe74fafbb542eee2eb5be2d9ebc556}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shuaiqi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f51224b90e79199a24c5a78f81ecdfe7}
+      \strng{fullhash}{f51224b90e79199a24c5a78f81ecdfe7}
+      \strng{bibnamehash}{f51224b90e79199a24c5a78f81ecdfe7}
+      \strng{authorbibnamehash}{f51224b90e79199a24c5a78f81ecdfe7}
+      \strng{authornamehash}{f51224b90e79199a24c5a78f81ecdfe7}
+      \strng{authorfullhash}{f51224b90e79199a24c5a78f81ecdfe7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE International Conference on Pervasive Computing and Communications \textbf{Just Accepted}}
+      \field{title}{Affective-NLI: Towards Accurate and Interpretable Personality Recognition in Conversation}
+      \field{year}{2024}
     \endentry
   \enddatalist
 \endrefsection
